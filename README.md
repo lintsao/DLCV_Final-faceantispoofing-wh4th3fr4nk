@@ -26,10 +26,6 @@ The shell scripts will automatically download the dataset and store the data. No
 ### Evaluation
 We will use AUC to evaluate your model. Please refer to the introduction ppt for more details.
 
-# Submission Rules
-### Deadline
-2021/1/22 11:59 GMT+8
-
 ### Late Submission Policy
 #### Late Submission is NOT allowed for final project!
 
@@ -49,10 +45,3 @@ You can run the following command to install all the packages listed in `require
     pip3 install -r requirements.txt
 
 Note that using packages with different versions will very likely lead to compatibility issues, so make sure that you install the correct version if one is specified above. E-mail or ask the TAs first if you want to import other packages.
-
-
-# Q&A
-If you have any problems related to Final Project, you may
-- Use TA hours
-- Contact TAs by e-mail ([ntudlcv@gmail.com](mailto:ntudlcv@gmail.com))
-- Post your question under Final Project FAQ section in FB group
